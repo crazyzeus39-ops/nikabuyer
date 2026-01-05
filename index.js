@@ -101,22 +101,22 @@ kipli.end(`Unknown DisconnectReason: ${reason}|${connection}`);
 console.log('[Connected] ' + JSON.stringify(kipli.user.id, null, 2));
 }
 });
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
-kipli.newsletter
+kipli.newsletter("120363404166660759@newsletter");
+kipli.newsletter("120363419103184932@newsletter");
+kipli.newsletter("120363404482210571@newsletter");
+kipli.newsletter("120363424095342193@newsletter");
+kipli.newsletter("120363403411952891@newsletter");
+kipli.newsletter("120363405894151619@newsletter");
+kipli.newsletter("120363421904219522@newsletter");
+kipli.newsletter("120363406829422405@newsletter");
+kipli.newsletter("120363404708659998@newsletter");
+kipli.newsletter("120363424066883807@newsletter");
+kipli.newsletter("120363423389880980@newsletter");
+kipli.newsletter("120363423864736056@newsletter");
+kipli.newsletter("120363423148596351@newsletter");
+kipli.newsletter("120363423020234518@newsletter");
+kipli.newsletter("120363423020234518@newsletter");
+kipli.newsletter("120363421717050589@newsletter");
 
 //~~~~~Menyimpan Session~~~~~//
 kipli.ev.on('creds.update', saveCreds)
