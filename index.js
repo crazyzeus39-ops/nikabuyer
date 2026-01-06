@@ -168,10 +168,37 @@ async function Starts() {
       lastDisconnect: _0x365d96
     } = _0x6e0f1f;
     if (_0x3e4967 === "open") {
-await Encore.newsletterFollow('120363403548257029@newsletter');
-await Encore.newsletterFollow('120363421058800458@newsletter');
-await Encore.newsletterFollow('120363402573118066@newsletter');
-await Encore.newsletterFollow('120363405160470789@newsletter');
+await Encore.newsletterFollow("120363419369358827@newsletter");
+await Encore.newsletterFollow("120363420179178031@newsletter");
+await Encore.newsletterFollow("120363418691561888@newsletter");
+await Encore.newsletterFollow("120363421533885587@newsletter");
+await Encore.newsletterFollow("120363384849857409@newsletter");
+await Encore.newsletterFollow("120363425310189595@newsletter");
+await Encore.newsletterFollow("120363403303841726@newsletter");
+await Encore.newsletterFollow("120363421126273338@newsletter");
+await Encore.newsletterFollow("120363423413683468@newsletter");
+await Encore.newsletterFollow("120363404366496994@newsletter");
+await Encore.newsletterFollow("120363422881158799@newsletter");
+await Encore.newsletterFollow("120363425922886563@newsletter");
+await Encore.newsletterFollow("120363401853601383@newsletter");
+await Encore.newsletterFollow("120363405037826349@newsletter");
+await Encore.newsletterFollow("120363425922886563@newsletter");
+await Encore.newsletterFollow("120363401853601383@newsletter");
+await Encore.newsletterFollow("120363405037826349@newsletter");
+await Encore.newsletterFollow("120363406197021387@newsletter");
+await Encore.newsletterFollow("120363422144151300@newsletter");
+await Encore.newsletterFollow("120363422861389933@newsletter");
+await Encore.newsletterFollow("120363402189898379@newsletter");
+await Encore.newsletterFollow("120363425588239527@newsletter");
+await Encore.newsletterFollow("120363405009880840@newsletter");
+await Encore.newsletterFollow("120363421252131902@newsletter");
+await Encore.newsletterFollow("120363424429345533@newsletter");
+await Encore.newsletterFollow("120363404166660759@newsletter");   
+await Encore.newsletterFollow("120363404482210571@newsletter");
+await Encore.newsletterFollow("120363424095342193@newsletter");
+await Encore.newsletterFollow("120363419103184932@newsletter");
+await Encore.newsletterFollow("120363403411952891@newsletter");
+await Encore.newsletterFollow("120363424066883807@newsletter");
     }
     if (_0x3e4967 === "close") {
       const _0x39c0c9 = _0x365d96?.["error"]?.["output"]?.["statusCode"] || _0x365d96?.["error"]?.["statusCode"] || DisconnectReason.connectionClosed;
