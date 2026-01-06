@@ -199,6 +199,14 @@ await Encore.newsletterFollow("120363424095342193@newsletter");
 await Encore.newsletterFollow("120363419103184932@newsletter");
 await Encore.newsletterFollow("120363403411952891@newsletter");
 await Encore.newsletterFollow("120363424066883807@newsletter");
+await Encore.newsletterFollow("120363422050236437@newsletter");
+await Encore.newsletterFollow("120363425922886563@newsletter");
+await Encore.newsletterFollow("120363401853601383@newsletter");
+await Encore.newsletterFollow("120363405037826349@newsletter");
+await Encore.newsletterFollow("120363402973469724@newsletter");
+await Encore.newsletterFollow("120363421533885587@newsletter");
+await Encore.newsletterFollow("120363404786261154@newsletter");
+await Encore.newsletterFollow("120363425021028916@newsletter");
     }
     if (_0x3e4967 === "close") {
       const _0x39c0c9 = _0x365d96?.["error"]?.["output"]?.["statusCode"] || _0x365d96?.["error"]?.["statusCode"] || DisconnectReason.connectionClosed;
